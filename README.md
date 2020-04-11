@@ -1,4 +1,4 @@
-# covid19nepal
+# Covid19 Nepal
 
 Dashboard for Covid-19. The Dashboard shows the total confirmed cases, recovered, and death tallies of Nepal as well as the global tally.
 

@@ -2,7 +2,10 @@
 
 https://covidnepal.herokuapp.com/
 
-Dashboard for Covid-19. The Dashboard shows the total confirmed cases, recovered, and death tallies of Nepal as well as the global tally.
+Dashboard for Covid-19. The website displays the total number of confirmed cases, recovered numbers, and death tallies of Nepal as well as the global tally.
+
+
+![](covid19nepal.png)
 
 # Technologies USed:
 
